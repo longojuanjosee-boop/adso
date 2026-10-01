@@ -1,0 +1,93 @@
+body {
+    background-color: #0eaa61; 
+    color: #2d2d2d;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-size: center;
+    background-position: center;
+    color: aqua;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+#cabecera-principal {
+    background-color: rgb(184, 137, 10);
+    text-align: center;
+    padding: 10px 10px;
+}
+
+.rica-comida {
+    color: blue;
+    font-size: 30px;
+    background-color: aqua;
+    padding: 80px;
+}
+
+.titulo {
+    background-size: cover;
+    background-position: center;
+    color: #2d2d2d;
+    text-align: center;
+    padding: 70px 90px;
+}
+
+main {
+    background-size: cover;
+    background-position: center;
+    color: #2d2d2d;
+    text-align: center;
+    padding: 30px 30px;
+}
+
+#lo-principal {
+    background-color: red;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+.rica-sopa {
+    color: pink;
+    font-size: 30px;
+    background-color: palegreen;
+    padding: 80px;
+}
+
+.titulo {
+    background-size: cover;
+    background-position: center;
+    color: #0eaa61;
+    text-align: center;
+    padding: 80px 90px;
+}
+
+footer {
+    background-size: cover;
+    background-position: center;
+    color: tomato;
+    text-align: center;
+    padding: 40px 40px;
+}
+
+#la-bandeja {
+    background-color: rebeccapurple;
+    text-align: center;
+    padding: 30px 30px
+}
+
+.arros-pollo-papas {
+    color: yellow;
+    font-size: 40px;
+    background-color: blueviolet;
+    padding: 80px;
+}
+
+.titulo {
+    background-size: cover;
+    background-position: center;
+    color: red;
+    text-align: center;
+    padding: 00px 90px;
+}
